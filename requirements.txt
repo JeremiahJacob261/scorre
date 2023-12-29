@@ -1,3 +1,4 @@
+pywin32; sys_platform == 'win32'
 altgraph==0.17.4
 asgiref==3.7.2
 beautifulsoup4==4.12.2
