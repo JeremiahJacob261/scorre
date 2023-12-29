@@ -21,10 +21,8 @@ mpmath==1.3.0
 networkx==3.2.1
 numba==0.58.1
 numpy==1.26.2
-openai-whisper==20231117
 packaging==23.2
 pefile==2023.2.7
-PyAudio==0.2.14
 pyinstaller==6.3.0
 pyinstaller-hooks-contrib==2023.11
 pyperclip==1.8.2
