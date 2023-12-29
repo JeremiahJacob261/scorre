@@ -20,7 +20,6 @@ def get_scores(url):
             match = des.next_sibling
             result = des.next_sibling.next_sibling.text
             parts = match.split(' - ')
-
             fullres.append({'time': time, 'home': parts[0],'away':parts[1], 'result': result})
         except Exception:
             print(Exception)
